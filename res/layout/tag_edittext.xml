@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edtTxt1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/edittext_bg"
+    android:drawablePadding="2dp"
+    android:padding="8dp"
+    android:shadowColor="#FFFFFF"
+    android:textColor="#000000"
+    android:textSize="16sp"
+    android:textStyle="bold" />
